@@ -1,3 +1,5 @@
 this is bug fix file 
 
 this modifed txt 
+
+conflict code 1
