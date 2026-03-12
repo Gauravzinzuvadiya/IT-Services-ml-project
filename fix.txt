@@ -3,3 +3,5 @@ this is bug fix file
 this modifed txt 
 
 conflict code 1
+
+conflict code 3 (bug fix)
