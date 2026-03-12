@@ -9,3 +9,6 @@ conflict cide 2(master)
 
 
 rebase check(master)
+
+
+rebase check(pink mode)
