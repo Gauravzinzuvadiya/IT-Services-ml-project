@@ -2,4 +2,6 @@ this is bug fix file
 
 this modifed txt 
 
-conflict code 1
+conflict code 1 
+
+conflict cide 2(master)
